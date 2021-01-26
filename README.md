@@ -18,4 +18,8 @@ Memory game: https://classroom.github.com/a/A0_nw76O
 
 Movie search: https://scrimba.com/learn/reactmovie
 
+## Artiklar
+
+Hämta värde från input: https://flaviocopes.com/react-how-to-get-value-input/
+
 ## Inspelningar
