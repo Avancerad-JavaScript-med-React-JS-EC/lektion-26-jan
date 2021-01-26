@@ -14,6 +14,8 @@ Movie search: https://github.com/Avancerad-JavaScript-med-React-JS-EC/movie-sear
 
 Memory game: https://classroom.github.com/a/A0_nw76O
 
+Träna Git: http://try.github.io/
+
 ## Videos
 
 Movie search: https://scrimba.com/learn/reactmovie
@@ -22,4 +24,9 @@ Movie search: https://scrimba.com/learn/reactmovie
 
 Hämta värde från input: https://flaviocopes.com/react-how-to-get-value-input/
 
+
 ## Inspelningar
+
+Förmiddag: https://academediase.sharepoint.com/:v:/s/Frontend20Helsingborg/Ea3JcWeX8A5MuogrStKwCgoBmmzJ0LpCODLbvy2Iz-hxUw?e=mKnxEk
+
+Eftermiddag: https://academediase.sharepoint.com/:v:/s/Frontend20Helsingborg/EXziW0dM1TdNhcZt9jB66REBUC95wJuUv6KT7p2PX79fhQ?e=jR0R2q
