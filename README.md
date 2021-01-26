@@ -11,6 +11,7 @@ Split the nota: https://github.com/Avancerad-JavaScript-med-React-JS-EC/split-th
 Movie search: https://github.com/Avancerad-JavaScript-med-React-JS-EC/movie-search-exercise
 
 **Svårighetsgrad: 3**
+
 Memory game: https://classroom.github.com/a/A0_nw76O
 
 ## Videos
